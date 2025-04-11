@@ -19,7 +19,7 @@ I love building intelligent systems, exploring how machines learn, and creating 
 
 **Languages**: Python, JavaScript, C
 **Web**: HTML, CSS, Bootstrap, React, Flask  
-**Databases**: MongoDB, MySQL  
+**Databases**: MySQL  
 **ML/DL**: NumPy, Pandas, Scikit-learn, Matplotlib  
 **Tools**: Git & GitHub, VSCode, Jupyter Notebook
 
