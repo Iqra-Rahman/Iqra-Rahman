@@ -1,15 +1,14 @@
 # 👋 Hey there, I'm Iqra Rahman
 
-I'm currently pursuing Bachelor's in Comuter Application, focusing on core computer concepts. i am an AI enthusiast. 
-I love building intelligent systems, exploring how machines learn, and creating web apps that solve meaningful problems.
+I'm currently pursuing Bachelor's in Comuter Application, focusing on core computer concepts.
+I love building intelligent systems, creating web apps that solve meaningful problems, and exploring how machines learn. 
 
 ---
 
 ## 🌱 About Me
 
-- 🔭 Currently focusing on builind models using Artificial Intelligence and Machine Learning.
-- 🤖 Diving deep into **Machine Learning**, **LLMs**, and **Recommendation Systems**.
-- 🌐 Exploring **Full-Stack Web Development** using **React + Flask**.
+- 🔭 Currently focusing on building Web Applications, and making them smart with the use of Artificial Intelligence.
+- 🤖 Diving deep into **Web Development**, **Backend Technologies**, **AI & Automation** and **Data Structures & Algorithms**.
 - 📊 Passionate about **AI for Good** and developing real-world projects that make a difference.
 - 🧠 Forever curious & always learning for smart solutions.
 
@@ -17,9 +16,9 @@ I love building intelligent systems, exploring how machines learn, and creating 
 
 ## 🛠️ Technologies & Tools
 
-**Languages**: Python, JavaScript, C
-**Web**: HTML, CSS, Bootstrap, React, Flask  
-**Databases**: MySQL  
+**Languages**: C++, JavaScript, Python
+**Web**: HTML, CSS, Bootstrap, Tailwind, React.
+**Databases**: MySQL, MongoDB
 **ML/DL**: NumPy, Pandas, Scikit-learn, Matplotlib  
 **Tools**: Git & GitHub, VSCode, Jupyter Notebook
 
@@ -27,7 +26,7 @@ I love building intelligent systems, exploring how machines learn, and creating 
 
 ## 🎯 Learning Goals
 
-- 🔍 Master **LLMs** and build intelligent apps.
+- 🔍 Master **Web Development Technologies** and build intelligent apps.
 - 📚 Deepen my understanding of **Data Structure & Algorithm**.
 - 💻 Contribute to open-source projects that align with AI, ML, and Web Development.
 - 🚀 Build scalable full-stack applications & chatbots that feel *human*.
@@ -36,9 +35,8 @@ I love building intelligent systems, exploring how machines learn, and creating 
 
 ## 💡 Open to Collaborate On:
 
-- 🤝 **Machine Learning** or **Data Science** projects  
+- 🤝 **Full Stack** Projects. 
 - 🧠 **AI chatbots** and intelligent systems  
-- 🌍 Open-source initiatives for social good
 
 ---
 
